@@ -106,3 +106,10 @@ button {
         position: absolute;
         bottom: 0;
 }
+
+@media screen and (max-width:786px) {
+        .card-content {
+                width: 90%;
+                margin: auto;
+        }
+}
